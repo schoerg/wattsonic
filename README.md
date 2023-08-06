@@ -1,5 +1,5 @@
 # Wattsonic Wireshark dissector
-This is a Wireshark dissector for Wattsonic inverters. It sends data to 2 IP addreses in my case. I tried to parse some fields I found out (check out doc directory). I use Modbus to query the device, but if you want you can do it with this too.
+This is a Wireshark dissector for Wattsonic inverters. It sends data to 2 IP addreses, some fields are parsed with this dissector. The device supports Modbus to query data, I recommend to use it.
 
 # How?
 
