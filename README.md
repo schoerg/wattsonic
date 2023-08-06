@@ -1,7 +1,7 @@
 # Wattsonic Wireshark dissector
 This is a Wireshark dissector for Wattsonic inverters. It sends data to 2 IP addreses in my case. I tried to parse some fields I found out (check out doc directory). I use Modbus to query the device, but if you want you can do it with this too.
 
-# How
+# How?
 
 Create a mirrored port or capture on your router/modem. Filter on port 5743. Copy the `wattsonic.lua` to your Wireshark plugins folder.
 
@@ -12,3 +12,7 @@ I wanted to create a Wireshark dissector for fun, this protocol seemed simple en
 # Example
 
 ![Wireshark screenshot](./doc/wattsonic_wireshark_dissector.png)
+
+# Other resources:
+
+https://smarthome.exposed/wattsonic-hybrid-inverter-gen3-modbus-rtu-protocol
