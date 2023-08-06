@@ -7,4 +7,4 @@ Create a mirrored port or capture on your router/modem. Filter on port 5743. Cop
 
 # Why use this when you can also query with Modbus?
 
-I wanted to create a Wireshark dissector for fun, this simple protocol seemed simple enough.
+I wanted to create a Wireshark dissector for fun, this protocol seemed simple enough.
