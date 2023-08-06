@@ -26,3 +26,5 @@ There are packets with 58 bytes, I did not investigate those.
 https://smarthome.exposed/wattsonic-hybrid-inverter-gen3-modbus-rtu-protocol
 
 https://github.com/GiZMoSK1221/hass-addons/tree/main/wattsonic
+
+https://library.loxone.com/detail/wattsonic-schmachtl-sun-energy-box-651/overview
