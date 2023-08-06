@@ -13,6 +13,10 @@ I wanted to create a Wireshark dissector for fun, this protocol seemed simple en
 
 ![Wireshark screenshot](./doc/wattsonic_wireshark_dissector.png)
 
-# Other resources:
+# Limitations
+
+There are packets with 58 bytes, I did not investigate those.
+
+# Other resources
 
 https://smarthome.exposed/wattsonic-hybrid-inverter-gen3-modbus-rtu-protocol
