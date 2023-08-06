@@ -15,7 +15,7 @@ The protocol is simple, all values have fixed offsets. Some values repeat like d
 
 ![Wireshark screenshot](./doc/wattsonic_wireshark_dissector.png)
 
-Date consists of 6 bytes, starting at offset 26 (decimal). Every byte encodes year, month, date, hour, minute, second.
+Date consists of 6 bytes, starting at offset 26 (decimal). Bytes encode year, month, date, hour, minute, second in that order.
 
 # Limitations
 
